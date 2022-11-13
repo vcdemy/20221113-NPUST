@@ -18,10 +18,11 @@
 * [MediaPipe](https://google.github.io/mediapipe/)
 * [Control DJI Tello drone with Hand gestures](https://towardsdatascience.com/control-dji-tello-drone-with-hand-gestures-b76bd1d4644f)
 
-## 講義
+## 筆記
 
-* colab: http://ppt.cc/fmW1Sx
+* colab 上午: http://ppt.cc/fmW1Sx
 * model: https://ppt.cc/fAyFXx
+* colab 下午： https://ppt.cc/fQaeOx
 
 ## 學習資源
 
