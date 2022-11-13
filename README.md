@@ -11,7 +11,11 @@
 
 ## 相關連結
 
+* [Pillow](https://pillow.readthedocs.io/en/stable/)
+* [Scikit-image](https://scikit-image.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
+* [MediaPipe](https://google.github.io/mediapipe/)
+* [Control DJI Tello drone with Hand gestures](https://towardsdatascience.com/control-dji-tello-drone-with-hand-gestures-b76bd1d4644f)
 
 ## 講義
 
