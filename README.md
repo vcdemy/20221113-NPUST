@@ -6,7 +6,8 @@
 
 ## 投影片：
 
-* 
+* [深度學習簡介](https://ppt.cc/fJTKax)
+* [Keras簡介](https:/ppt.cc/fQILqx)
 
 ## 相關連結
 
